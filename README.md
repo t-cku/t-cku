@@ -7,7 +7,7 @@ I'm a computer engineering and computer science student passionate about data, d
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-- 💻 C++, Python  
+- 💻 C, C++, Python  
 - 📊 Pandas, scikit-learn, Matplotlib  
 - 🎨 Figma  
 - 🧠 SQL  
