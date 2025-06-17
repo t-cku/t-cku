@@ -18,6 +18,8 @@ I'm a computer engineering and computer science student passionate about data, d
 ### 🔥 [FireCheck]([https://github.com/t-cku/firecheck](https://devpost.com/software/firecheck-ekjqb3))  
 An intelligent risk assessment tool for wildfire-prone areas, combining data visualization, machine learning, and user-friendly design to help inform communities real-time. Enhanced by Gemini AI chatbot. 
 
+### 💸 [RSI Calculator]([https://github.com/t-cku/RSI-calculator.git])
+A simple tool to calculate and visualise the RSI (Relative Strength Index) of a stock for you to easily compare RSI trends with price data.
 
 
 ## 🔗 Connect With Me
