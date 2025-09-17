@@ -2,16 +2,17 @@
 
 # 👋 Hi, I'm Tiffany (t-cku)
 
-I'm a computer engineering and computer science student passionate about data, designing, and coding to create impactful and intuitive solutions. Whether it's building models, wrangling data, or crafting clean interfaces, I love turning ideas into reality.
+I'm a computer engineering and computer science student passionate about data, designing, and coding to create impactful and intuitive solutions. Whether it's building models, wrangling data, or crafting clean interfaces, I love turning ideas into reality. 
 
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
 - 💻 C, C++, Python  
-- 📊 Pandas, scikit-learn, Matplotlib  
+- 📊 Pandas, scikit-learn, Matplotlib, NumPy  
 - 🎨 Figma  
 - 🧠 SQL  
-- 🌐 HTML, CSS  
+- 🌐 HTML, CSS
+- 💬 Actual languages: English, Chinese and basic French!  
 
 ## 🚀 Projects
 
