@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tiffany (t-cku)
 
-I'm a computer engineering and computer science student passionate about data, designing, and coding to create impactful and intuitive solutions. Whether it's building models, wrangling data, or crafting clean interfaces, I love turning ideas into reality. 
+I'm a computer engineering and computer science student passionate about data, designing, and coding to create impactful and intuitive solutions. Whether it's building models, wrangling data, or crafting clean interfaces, I love turning ideas into reality. I'm interested in equities, quantitative finance, product development and management and software engineering!
 
 ## 🛠️ Tech Stack
 
