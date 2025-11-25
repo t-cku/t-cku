@@ -2,17 +2,38 @@
 
 # 👋 Hi, I'm Tiffany (t-cku)
 
-I'm a computer engineering and computer science student passionate about data, designing, and coding to create impactful and intuitive solutions. Whether it's building models, wrangling data, or crafting clean interfaces, I love turning ideas into reality. I'm interested in equities, quantitative finance, product development and management and software engineering!
+I'm a Computer Engineering & Computer Science student at the University of Southern California who loves solving interdisciplinary problems — especially where **data, strategy, and product design** meet. I enjoy building things that are both **analytically rigorous** and **intuitively designed**, whether that’s a predictive model, a clean interface, or a system that makes complex information easier to act on.
+
+I'm especially interested in **equities, quantitative finance, product development/management, and software engineering** — essentially, anywhere I can combine **technical depth with thoughtful decision-making**.
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
-- 💻 C, C++, Python  
-- 📊 Pandas, scikit-learn, Matplotlib, NumPy  
-- 🎨 Figma  
-- 🧠 SQL  
-- 🌐 HTML, CSS
-- 💬 Actual languages: English, Chinese and basic French!  
+**Programming Languages**  
+💻 C, C++, Python
+🧠 SQL  
+
+**Data Science and Analysis**  
+📊 Pandas, NumPy, Matplotlib, Plotly  
+🧠 scikit-learn, TensorFlow  
+💹 yfinance (market data + financial analytics)  
+🎨 Figma  
+
+**APIs and Backend**  
+🔌 REST API design & implementation  
+📡 JSON, CSV  
+🌐 Flask (lightweight backend / API development)  
+
+**Systems and Hardware**  
+🐧 Linux (Ubuntu; CLI workflow)  
+🍓 Raspberry Pi (sensors, prototyping)  
+⚡ Arduino (embedded C / microcontrollers)  
+
+**Web and Design**  
+🧩 HTML, CSS, Figma  
+
+**Human Languages**  
+💬 English, Cantonese Chinese, basic Mandarin Chinese and French  
+
 
 ## 🚀 Projects
 
