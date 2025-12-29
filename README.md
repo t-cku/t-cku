@@ -43,6 +43,8 @@ An intelligent risk assessment tool for wildfire-prone areas, combining data vis
 ### 💸 [RSI Calculator]([https://github.com/t-cku/RSI-calculator.git])
 A simple tool to calculate and visualise the RSI (Relative Strength Index) of a stock for you to easily compare RSI trends with price data.
 
+### 📊 [Kelly Criterion Simulator] ([https://github.con/t-cku/kelly-simulator.git])
+A quantitative simulation engine that analyses the performance of the Kelly Criterion money management strategy.
 
 ## 🔗 Connect With Me
 
