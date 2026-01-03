@@ -40,10 +40,10 @@ I'm especially interested in **equities, quantitative finance, product developme
 ### 🔥 [FireCheck]([https://github.com/t-cku/firecheck](https://devpost.com/software/firecheck-ekjqb3))  
 An intelligent risk assessment tool for wildfire-prone areas, combining data visualization, machine learning, and user-friendly design to help inform communities real-time. Enhanced by Gemini AI chatbot. 
 
-### 💸 [RSI Calculator]([https://github.com/t-cku/RSI-calculator.git])
+### 💸 [RSI Calculator](https://github.com/t-cku/RSI-calculator)
 A simple tool to calculate and visualise the RSI (Relative Strength Index) of a stock for you to easily compare RSI trends with price data.
 
-### 📊 [Kelly Criterion Simulator]([https://github.con/t-cku/kelly-simulator.git])
+### 📊 [Kelly Criterion Simulator](https://github.con/t-cku/kelly-simulator)
 A quantitative simulation engine that analyses the performance of the Kelly Criterion money management strategy.
 
 ## 🔗 Connect With Me
