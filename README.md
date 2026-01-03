@@ -9,7 +9,7 @@ I'm especially interested in **equities, quantitative finance, product developme
 ## 🛠️ Tech Stack
 
 **Programming Languages**  
-💻 C, C++, Python
+💻 C, C++, Python, React
 🧠 SQL  
 
 **Data Science and Analysis**  
