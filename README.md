@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Tiffany (t-cku)
+# Hi, I'm Tiffany (t-cku)
 
 I'm a Computer Engineering & Computer Science student at the University of Southern California who loves solving interdisciplinary problems — especially where **data, strategy, and product design** meet. I enjoy building things that are both **analytically rigorous** and **intuitively designed**, whether that’s a predictive model, a clean interface, or a system that makes complex information easier to act on.
 
