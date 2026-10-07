@@ -4,12 +4,12 @@
 
 I'm a Computer Engineering & Computer Science student at the University of Southern California who loves solving interdisciplinary problems — especially where **data, strategy, and product design** meet. I enjoy building things that are both **analytically rigorous** and **intuitively designed**, whether that’s a predictive model, a clean interface, or a system that makes complex information easier to act on.
 
-I'm especially interested in **equities, quantitative finance, product development/management, and software engineering** — essentially, anywhere I can combine **technical depth with thoughtful decision-making**.
+I'm especially interested in **product development/management, software engineering, and fintech** — essentially, anywhere I can combine **technical depth with thoughtful decision-making**.
 
 ## 🛠️ Tech Stack
 
 **Programming Languages**  
-💻 C, C++, Python, React
+💻 C, C++, Python, React, Java
 🧠 SQL  
 
 **Data Science and Analysis**  
