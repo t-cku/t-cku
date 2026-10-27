@@ -16,8 +16,11 @@ I'm part of Prof. Bhaskar's Autonomous Networks Research Lab at USC, where I bui
 ## What I'm learning 
 
 Always eager to learn, and currently digging into new AI and agentic tools:
+
 Recently started using Muse, Meta's AI agent
+
 Completed the MCP course on Anthropic Academy
+
 Embedded Systems, Semiconductors, and FPGA
 
 ---
