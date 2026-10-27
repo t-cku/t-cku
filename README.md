@@ -58,7 +58,7 @@ Wildfire-risk prediction tool built at AthenaHacks. Winner of the **"Best Use of
 
 ## Stack
 
-**Languages:** Python, C++, C, Verilog, Java
+**Languages:** Python, C++, C, Verilog, Java, SQL
 
 **Web and APIs:** Flask, FastAPI, REST APIs
 
