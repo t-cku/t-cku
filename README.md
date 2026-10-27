@@ -1,4 +1,4 @@
-# Hi, I'm Tiffany 👋
+# Hi, I'm Tiffany!
 
 Final-year Computer Engineering and Computer Science student at **the University of Southern California (USC)** (graduating May 2027), accelerating my four-year degree to finish in three. I like building things end-to-end, then translating what I built for the people who will use it.
 
