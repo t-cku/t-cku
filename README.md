@@ -1,71 +1,70 @@
+# Hi, I'm Tiffany 👋
 
+Final-year Computer Engineering and Computer Science student at **the University of Southern California (USC)** (graduating May 2027), accelerating my four-year degree to finish in three. I like building things end-to-end, then translating what I built for the people who will use it.
 
-# Hi, I'm Tiffany (t-cku)
+I'm looking for **Product Management and Software Engineering roles in London**.
 
-I'm a Computer Engineering & Computer Science student at the University of Southern California who loves solving interdisciplinary problems — especially where **data, strategy, and product design** meet. I enjoy building things that are both **analytically rigorous** and **intuitively designed**, whether that’s a predictive model, a clean interface, or a system that makes complex information easier to act on.
-
-I'm especially interested in **product development/management, software engineering, and fintech** — essentially, anywhere I can combine **technical depth with thoughtful decision-making**.
-
-## 🛠️ Tech Stack
-
-**Programming Languages**  
-💻 C, C++, Python, React, Java
-🧠 SQL  
-
-**Data Science and Analysis**  
-📊 Pandas, NumPy, Matplotlib, Plotly  
-🧠 scikit-learn, TensorFlow  
-💹 yfinance (market data + financial analytics)  
-🎨 Figma  
-
-**APIs and Backend**  
-🔌 REST API design & implementation  
-📡 JSON, CSV  
-🌐 Flask (lightweight backend / API development)  
-
-**Systems and Hardware**  
-🐧 Linux (Ubuntu; CLI workflow)  
-🍓 Raspberry Pi (sensors, prototyping)  
-⚡ Arduino (embedded C / microcontrollers)  
-
-**Web and Design**  
-🧩 HTML, CSS, Figma  
-
-**Human Languages**  
-💬 English, Cantonese Chinese, basic Mandarin Chinese and French  
-
-
-## 🚀 Projects
-
-### 🔥 [FireCheck]([https://github.com/t-cku/firecheck](https://devpost.com/software/firecheck-ekjqb3))  
-An intelligent risk assessment tool for wildfire-prone areas, combining data visualization, machine learning, and user-friendly design to help inform communities real-time. Enhanced by Gemini AI chatbot. 
-
-### 💸 [RSI Calculator](https://github.com/t-cku/RSI-calculator)
-A simple tool to calculate and visualise the RSI (Relative Strength Index) of a stock for you to easily compare RSI trends with price data.
-
-### 📊 [Kelly Criterion Simulator](https://github.con/t-cku/kelly-simulator)
-A quantitative simulation engine that analyses the performance of the Kelly Criterion money management strategy.
-
-## 🔗 Connect With Me
-
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Tiffany%20Carmen%20Ku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiffany-carmen-ku)](https://www.linkedin.com/in/tiffany-carmen-ku)
+This is my Personal Website.
+🌐 [t-cku.github.io](https://t-cku.github.io)
 
 ---
 
-✨ Thanks for visiting my GitHub profile!
+## What I'm working on
 
+I'm part of Prof. Bhaskar's Autonomous Networks Research Lab at USC, where I built an English-to-**S3BE** (Simple Sentence Structure Basic English) translation pipeline for small language models, along with a rule-based validator that catches and categorises the translator's failures.
 
-<!--
-**t-cku/t-cku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm learning 
 
-Here are some ideas to get you started:
+Always eager to learn, and currently digging into new AI and agentic tools:
+Recently started using Muse, Meta's AI agent
+Completed the MCP course on Anthropic Academy
+Embedded Systems, Semiconductors, and FPGA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### [Thesis](https://github.com/t-cku/thesis)
+Turns a US-listed ticker into a structured six-section research brief. Built end to end with AI-assisted coding tools, using a FastAPI backend, the Anthropic API and market data. I built it for my own investing and use it whenever I research a position.
+
+`Python` `FastAPI` `Anthropic API` `yfinance` `Cursor`
+
+### Resource-Constraint LLM Translation Pipeline
+An English-to-S3BE translation pipeline for small language models, built through CURVE (Centre of Undergraduate Research at Viterbi Engineering). When the LLM translator scored around 65% against its explicit rules, I built a rule-based validator that catches and categorises its failures.
+
+`Python` `LLMs` `Validation`
+
+### [Kelly Criterion Simulator](https://github.com/t-cku/kelly-simulator)
+A positioning simulator that runs 1000+ Monte Carlo scenarios to model drawdown risk and bankroll growth.
+
+`Python` `NumPy` `Pandas` `Matplotlib`
+
+### [FPGA Game Project](https://github.com/t-cku/ee354_fpga_project)
+A game built on an FPGA for USC's EE 354 digital design course.
+
+`Verilog` `FPGA`
+
+### [Workout Logger](https://github.com/t-cku/workout-logger)
+A tool for logging workouts.
+
+`Claude Code`
+
+### FireCheck 🏆
+Wildfire-risk prediction tool built at AthenaHacks. Winner of the **"Best Use of AI"** award from Reach Capital.
+
+`Python` `Flask` `REST APIs`
+
+---
+
+## Stack
+
+**Languages:** Python, C++, C, Verilog, Java
+**Web and APIs:** Flask, FastAPI, REST APIs
+**Data:** Pandas, NumPy, Matplotlib, yfinance
+**Systems and hardware:** Linux, Raspberry Pi, Arduino, Cadence Virtuoso
+
+---
+
+## Get in touch
+
+Open to chatting about product, software or anything I've built. Find me through my [website](https://t-cku.github.io).
